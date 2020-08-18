@@ -8,7 +8,7 @@ STEP 4: IF a>=65 AND a<80
            PRINT "B"
 STEP 5: IF a>=45 AND a<65
            PRINT "C"
-STEP 4: IF a>=35 AND a<55
+STEP 5: IF a>=35 AND a<55
            PRINT "D"
         ELSE 
            PRINT "F" 
