@@ -1,0 +1,17 @@
+Algorithm to print grade obtained by a student 
+
+STEP 1: START Grades
+STEP 2: INPUT the Marks as a
+STEP 3: IF a>80
+           PRINT "A"
+STEP 4: IF a>=65 AND a<80
+           PRINT "B"
+STEP 5: IF a>=45 AND a<65
+           PRINT "C"
+STEP 4: IF a>=35 AND a<55
+           PRINT "D"
+        ELSE 
+           PRINT "F" 
+        END IF 
+STEP 5:END Grades
+      
