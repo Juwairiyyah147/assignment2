@@ -6,12 +6,12 @@ STEP 3: IF a>80
            PRINT "A"
 STEP 4: IF a>=65 AND a<80
            PRINT "B"
-STEP 5: IF a>=45 AND a<65
+STEP 5: IF a>=50 AND a<65
            PRINT "C"
-STEP 5: IF a>=35 AND a<55
+STEP 6: IF a>=35 AND a<50
            PRINT "D"
         ELSE 
            PRINT "F" 
         END IF 
-STEP 5:END Grades
+STEP 7:END Grades
       
